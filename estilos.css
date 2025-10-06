@@ -3,6 +3,7 @@ body{
   font-family: Arial;
   display:flex;
   text-align:justify;
+  color:white;
 }  
 
 #texto{
